@@ -1,6 +1,7 @@
-.DS_Store
+_Store
 node_modules
 .cache
 dist
 .sass-cache
 .npm-debug.log
+

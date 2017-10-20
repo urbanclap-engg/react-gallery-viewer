@@ -1,6 +1,6 @@
 {
   "name": "react-gallery-viewer",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "description": "A high performant gallery viewer",
   "main": "./lib/GalleryViewer.js",
   "scripts": {
