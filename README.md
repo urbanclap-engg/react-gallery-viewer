@@ -4,9 +4,9 @@
 A google like image viewer, which is highly performant. With fullscreen images and data and lots of images the DOM gets heavy and results in janks across low end devices, this package aims to solve that issue for mobile currently[Desktop maybe in future releases].
 
 
-## Demo Link
+## Demo Link(Will only work for mobile)
 
-<img src="https://cdn.pbrd.co/images/NdP8aaHom.png" width="550"/>
+https://www.urbanclap.com/weddings 
 
 
 ## Install
