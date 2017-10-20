@@ -1,0 +1,29 @@
+.slideItemMobileClass {
+  height: 100vh;
+  background-color: #fff;
+  overflow-y: scroll;
+}
+.crossIcon {
+  position: absolute;
+  width: 32px !important;
+  top: 16px;
+  left: 16px;
+  z-index: 3;
+}
+
+.imageGalleryContainer .imageListContainer {
+  margin: 0;
+  height: 100%;
+  padding: 0;
+  position: relative;
+  will-change: transform;
+  transform: translate3d(0, 0, 0);
+}
+.imageGalleryContainer .imageListContainer .imageItem {
+  position: absolute;
+  top: 0;
+  min-height: 100vh;
+  width: 100%;
+  will-change: transform;
+  transform: translate3d(0, 0, 0);
+}
